@@ -6,5 +6,13 @@
     "price": "0USD",
     "store": "virtrnt",
     "storeURL": "https://portal.virtnet.bond/login"
+  },
+  {
+    "ip": "193.29.62.144",
+    "startday": "2025-01-17",
+    "endday": "2026-01-26",
+    "price": "3USD",
+    "store": "Bzvm",
+    "storeURL": "https://bzvm.com/"
   }
 ]
