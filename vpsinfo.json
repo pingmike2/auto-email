@@ -14,5 +14,13 @@
     "price": "3USD",
     "store": "Bzvm",
     "storeURL": "https://bzvm.com/"
+  },
+  {
+    "ip": "204.10.194.164",
+    "startday": "2025-03-22",
+    "endday": "2025-04-22",
+    "price": "0USD",
+    "store": "Bzvm",
+    "storeURL": "ctrl.lunes.host"
   }
 ]
